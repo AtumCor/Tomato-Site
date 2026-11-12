@@ -129,7 +129,6 @@ Click **Save**.
 - [`profile.yaml`](/config/profile.yaml) — your name, email, profile image, etc.
 - [`sidebar.yaml`](/config/sidebar.yaml) — sidebar layout
 - [`giscus.yaml`](/config/giscus.yaml) — Giscus (article comments) configuration
-- [`publications.yaml`](/config/publications.yaml) — (optional) research publications list
 
 ---
 

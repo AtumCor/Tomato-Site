@@ -44,7 +44,6 @@ Click **Save**.
 
 - [`site.yaml`](/config/site.yaml) — website title, metadata, etc.
 - [`profile.yaml`](/config/profile.yaml) — your name, email, profile image, etc.
-- [`publications.yaml`](/config/publications.yaml) — (optional) research publications list
 
 ---
 

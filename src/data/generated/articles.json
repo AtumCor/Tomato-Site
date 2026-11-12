@@ -23,8 +23,8 @@
             "quickstart",
             "showlit"
         ],
-        "updated_at": "2026-11-11T21:21:30.967Z",
-        "hash": "19c0fe9c22c3475769cf8055edc78d9330394a8899011aa6934a2c00c6d678d1"
+        "updated_at": "2026-11-12T18:18:54.073Z",
+        "hash": "43a303afbc57dc6373628fd277a24309a31ad257c97fb455586717d56ae11bb5"
     },
     "manual-setup": {
         "path": "public/articles/manual-setup/manual-setup.md",
