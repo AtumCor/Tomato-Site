@@ -1,40 +1,24 @@
-import { FaLinkedin, FaGoogleScholar, FaRegIdBadge, FaGithub, FaSquareFacebook } from "react-icons/fa6";
+import { FaLinkedin, FaRegIdBadge } from "react-icons/fa6";
 
 export const profile = {
-  name: `[Your Name]`,
-  headline: `Student @ [Your University]`,
-  email: `your-email@gmail.com`,
-  location: null,
-  profileImage: `https://github.com/pm25.png`,
+  name: `Matthew Tamayo`,
+  headline: `Aerospace Engineering Student | Systems & Aerodynamics`,
+  email: `mtamayo2486@gmail.com`,
+  location: `The Ohio State University`,
+  profileImage: `/REPOSITORY/images/profile.jpeg`,
   links: [
     {
       name: `LinkedIn`,
-      url: `https://www.linkedin.com/in/[your-linkedin]`,
-      icon: FaLinkedin,
-    },
-    {
-      name: `Google Scholar`,
-      url: `https://scholar.google.com/citations?user=[your-id]`,
-      icon: FaGoogleScholar,
+      url: `https://www.linkedin.com/in/tamayom`,
+      icon: FaLinkedin
     },
     {
       name: `Résumé`,
-      url: `/showlit/pdf/sample-resume.pdf`,
-      icon: FaRegIdBadge,
-    },
-    {
-      name: `Github`,
-      url: `https://github.com/[your-github]`,
-      icon: FaGithub,
-    },
-    {
-      name: `Facebook`,
-      url: `https://www.facebook.com/[your-facebook]`,
-      icon: FaSquareFacebook,
-    },
+      url: `/REPOSITORY/pdf/matthew-tamayo-resume.pdf`,
+      icon: FaRegIdBadge
+    }
   ],
-  biography: `Hi! I'm <strong>[Your Name]</strong>, a <em>[Your Title]</em> passionate about <em>[field or topic]</em>. Currently, I work as <em>[current role]</em> at <em>[organization]</em>, where I <em>[briefly describe your work or mission]</em>. 
-With a background in <em>[academic or professional background]</em>, I've developed strong interests in <em>[key interests or specialties]</em> and have contributed to projects like <i>[example project]</i> and <i>[another example]</i>, all focused on <em>[broader goal or impact]</em>.
-<div class="my-2"></div>
-Outside of work, I enjoy <em>[hobbies or personal interests]</em>, which inspire creativity and keep me energized. Thanks for visiting! Feel free to <a href="mailto:[your-email@example.com]" target="_blank" rel="noopener noreferrer">reach out</a> to connect.`,
+  biography: `<p>I'm <strong>Matthew Tamayo</strong>, an Aerospace Engineering student at <strong>The Ohio State University</strong>, working toward my B.S. in May 2028. My interests include aerodynamics, spacecraft mission design, and computational simulation.</p>
+<p>I've applied MATLAB, CFD, FEA, and CAD in aircraft design, NASA L'SPACE mission planning, robotic systems, and hypersonic reentry analysis. I enjoy taking engineering ideas from trade studies and calculations to practical design decisions.</p>
+<p>Beyond technical work, I serve as President of Lambda Phi Epsilon and have helped lead the Co-Lab-eration Engineering Club. I'm always happy to connect about engineering and collaborative projects.</p>`
 };

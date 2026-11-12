@@ -1,10 +1,5 @@
-# =====================================================
-# Website Configuration
-# This section contains general information about your website.
-# =====================================================
-
 site:
-  name: "Showlit"
-  repoUrl: "https://github.com/pm25/showlit"
-  description: "A short description"
-  author: "Your Name"
+  name: "Matthew Tamayo | Aerospace Engineering"
+  repoUrl: "https://github.com/OWNER/REPOSITORY"
+  description: "Aerospace engineering portfolio featuring aerodynamics, systems engineering, CFD, FEA, and leadership."
+  author: "Matthew Tamayo"
